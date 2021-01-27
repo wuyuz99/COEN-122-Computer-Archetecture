@@ -1,0 +1,21 @@
+0.6
+2019.2
+Nov  6 2019
+21:57:16
+D:/SCU/Spring 2020/COEN122/finalProject/ALU.v,1590705343,verilog,,D:/SCU/Spring 2020/COEN122/finalProject/EXWB_buffer.v,,alu,,,,,,,,
+D:/SCU/Spring 2020/COEN122/finalProject/EXWB_buffer.v,1588287771,verilog,,D:/SCU/Spring 2020/COEN122/finalProject/IDEX_buffer.v,,EXWB_buffer,,,,,,,,
+D:/SCU/Spring 2020/COEN122/finalProject/IDEX_buffer.v,1588288013,verilog,,D:/SCU/Spring 2020/COEN122/finalProject/IFID_buffer.v,,IDEX_buffer,,,,,,,,
+D:/SCU/Spring 2020/COEN122/finalProject/IFID_buffer.v,1588287456,verilog,,D:/SCU/Spring 2020/COEN122/finalProject/finalProject/finalProject.srcs/sources_1/new/PC_adder.v,,IFID_buffer,,,,,,,,
+D:/SCU/Spring 2020/COEN122/finalProject/control.v,1591260091,verilog,,D:/SCU/Spring 2020/COEN122/finalProject/data_memory.v,,control,,,,,,,,
+D:/SCU/Spring 2020/COEN122/finalProject/data_memory.v,1591254786,verilog,,D:/SCU/Spring 2020/COEN122/finalProject/instruction_memory.v,,data_memory,,,,,,,,
+D:/SCU/Spring 2020/COEN122/finalProject/finalProject/finalProject.sim/sim_1/behav/xsim/glbl.v,1573089660,verilog,,,,glbl,,,,,,,,
+D:/SCU/Spring 2020/COEN122/finalProject/finalProject/finalProject.srcs/sim_1/new/testbench.v,1591258621,verilog,,,,testbench,,,,,,,,
+D:/SCU/Spring 2020/COEN122/finalProject/finalProject/finalProject.srcs/sources_1/new/PC_adder.v,1591235634,verilog,,D:/SCU/Spring 2020/COEN122/finalProject/finalProject/finalProject.srcs/sources_1/new/ProgramCounter.v,,PC_adder,,,,,,,,
+D:/SCU/Spring 2020/COEN122/finalProject/finalProject/finalProject.srcs/sources_1/new/ProgramCounter.v,1591236502,verilog,,D:/SCU/Spring 2020/COEN122/finalProject/finalProject/finalProject.srcs/sources_1/new/and2.v,,ProgramCounter,,,,,,,,
+D:/SCU/Spring 2020/COEN122/finalProject/finalProject/finalProject.srcs/sources_1/new/and2.v,1589496149,verilog,,D:/SCU/Spring 2020/COEN122/finalProject/control.v,,and2,,,,,,,,
+D:/SCU/Spring 2020/COEN122/finalProject/finalProject/finalProject.srcs/sources_1/new/or3.v,1589496439,verilog,,D:/SCU/Spring 2020/COEN122/finalProject/register_file.v,,or3,,,,,,,,
+D:/SCU/Spring 2020/COEN122/finalProject/finalProject/finalProject.srcs/sources_1/new/signextender.v,1589476379,verilog,,D:/SCU/Spring 2020/COEN122/finalProject/finalProject/finalProject.srcs/sources_1/new/signextender_adder.v,,signextender,,,,,,,,
+D:/SCU/Spring 2020/COEN122/finalProject/finalProject/finalProject.srcs/sources_1/new/signextender_adder.v,1589493118,verilog,,D:/SCU/Spring 2020/COEN122/finalProject/finalProject/finalProject.srcs/sim_1/new/testbench.v,,signextender_adder,,,,,,,,
+D:/SCU/Spring 2020/COEN122/finalProject/instruction_memory.v,1591992303,verilog,,D:/SCU/Spring 2020/COEN122/finalProject/mux.v,,instruction_memory,,,,,,,,
+D:/SCU/Spring 2020/COEN122/finalProject/mux.v,1588889521,verilog,,D:/SCU/Spring 2020/COEN122/finalProject/finalProject/finalProject.srcs/sources_1/new/or3.v,,mux,,,,,,,,
+D:/SCU/Spring 2020/COEN122/finalProject/register_file.v,1591254789,verilog,,D:/SCU/Spring 2020/COEN122/finalProject/finalProject/finalProject.srcs/sources_1/new/signextender.v,,register_file,,,,,,,,
